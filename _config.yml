@@ -28,8 +28,7 @@ twitter_username: rachelmmfisher
 github_username:  elenaltarien
 
 # Build settings
-# theme: minima
-jekyll-theme-architech
+theme: jekyll-theme-architech
 plugins:
   - jekyll-feed
 
