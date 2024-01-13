@@ -2,7 +2,9 @@
 layout: post
 title:  "Christmas Reflections"
 date:   2022-01-03 18:11:39 -0500
-categories: rachel's reflections
+categories: 
+    - Rachel's Reflections
+tags: [Christmas, suffering, ]
 ---
 
 It may seem strange to have a Christmas reflections post come after Christmas, but in the Catholic Church, the [Christmas liturgical season](https://ucatholic.com/blog/when-does-christmas-actually-end/) goes from Christmas Day until the Baptism of the Lord (Jan 9th this year). And historically, Christmastide didn’t end until February 2nd at The Presentation of the Lord, also known as Candlemas. You might be thinking “Wow, that’s a really long time! I don’t want to keep celebrating the Christmas season all the way up until February!” And I hear you, but we live in the era of holiday creep and our culture starts Christmas celebrations rather early by historical standards. Traditionally, the start of the Christmas celebration was much closer to Christmas and not all the way in November. So really, I am posting about Christmas during Christmas!
