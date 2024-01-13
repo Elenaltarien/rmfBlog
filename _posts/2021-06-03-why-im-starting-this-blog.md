@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why I'm Starting this Blog"
-date: %yyyy%-%mm%-%dd% %hh%:%ii%
+date: 2021-06-03
 categories: [Rachel's Reflections]
 author: User
 tags: [welcome]
