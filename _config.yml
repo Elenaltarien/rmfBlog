@@ -28,7 +28,8 @@ twitter_username: rachelmmfisher
 github_username:  elenaltarien
 
 # Build settings
-theme: jekyll-theme-architech
+remote_theme: daattali/beautiful-jekyll@6.0.1
+# theme: jekyll-theme-architech
 plugins:
   - jekyll-feed
 
